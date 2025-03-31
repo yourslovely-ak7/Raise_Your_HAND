@@ -3,6 +3,8 @@ import Base from './Base'
 
 export default function Home() {
   return (
+  
+  
     <div>
     <Base/>
     <div id='asd'>
@@ -17,7 +19,7 @@ export default function Home() {
     <h2 class='qwe' id='q9'>Not knowing where to ask for HELP! Just "RAISE YOUR HAND"...</h2>
     </div>
     </div>
-    <div id="createdForNothing">
+    <div id="againCreatedForNothing">
     </div>
   )
 }
